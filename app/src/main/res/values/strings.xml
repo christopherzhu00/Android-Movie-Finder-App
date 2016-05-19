@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CSM117</string>
+    <string name="m_title">MovieFinder</string>
+    <string name="location_prompt">Pick a Location</string>
+
+    <string name="loc1">Agoura Hills Stadium 8 - Agoura Hills</string>
+    <string name="loc2">Bruin - Westwood Village</string>
+    <string name="loc3">Commerce 14 - City of Commerce</string>
+    <string name="loc4">Granada Hills 9 - Granada Hills</string>
+    <string name="loc5">Norwalk 8 - Norwalk</string>
+    <string name="loc6">Valley Plaza 6 - North Hollywood</string>
+    <string name="loc7">Van Nuys Plant 16 - Van Nuys</string>
+    <string name="loc8">Village - Westwood Village</string>
+    <string-array name="cinema_locs">
+        <item>@string/loc1</item>
+        <item>@string/loc2</item>
+        <item>@string/loc3</item>
+        <item>@string/loc4</item>
+        <item>@string/loc5</item>
+        <item>@string/loc6</item>
+        <item>@string/loc7</item>
+        <item>@string/loc8</item>
+    </string-array>
+</resources>
